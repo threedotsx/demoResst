@@ -16,41 +16,5 @@
     "name": "Canon EOS 600D Kit",
     "cost" : "15659",
     "lost" : "4"
-  },
-  {
-    "id": 4,
-     "name": "Samsung Galaxy Tab 2 10.1 P5100 16Gb",
-     "cost" : "13290",
-     "lost" : "9"
-},
-{
-     "id": 5,
-        "name": "Samsung Galaxy Note II 16Gb",
-        "cost" : "17049.50",
-        "lost" : "2"
-},
-  {
-    "id": 6,
-    "name": "Nikon D3100 Kit",
-    "cost" : "12190",
-    "lost" : "4"
-},
-{
-    "id": 7,
-    "name": "Canon EOS 1100D Kit",
-    "cost" : "10985",
-    "lost" : "2"
-},
-{
-    "id": 8,
-    "name": "Sony Xperia acro S",
-    "cost" : "11800.99",
-    "lost" : "1"
-},
-{
-    "id": 9,
-    "name": "Lenovo G580",
-    "cost" : "8922",
-    "lost" : "1"
-}
-]
+  }
+  ]
