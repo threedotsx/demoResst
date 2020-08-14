@@ -5,6 +5,8 @@
     "cost": "8888"
   },
   {
-    "id": 2, "name": "Samsung Galaxy S Duos S7562", "cost": "7230"
+    "id": 2, 
+    "name": "Samsung Galaxy S Duos S7562",
+    "cost": "7230"
   }
 ]
