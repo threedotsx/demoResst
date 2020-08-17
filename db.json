@@ -1,7 +1,8 @@
 {
   "posts": [
     { "id": 1, "name": "Apple iPod touch 5 32Gb", "cost": "8888"},
-    { "id": 2, "name": "Samsung Galaxy S Duos S7562", "cost": "7230" }
+    { "id": 2, "name": "Samsung Galaxy S Duos S7562", "cost": "7230" },
+    { "id": 3, "name": "name": "Canon EOS 600D Kit", "cost": "15659" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
